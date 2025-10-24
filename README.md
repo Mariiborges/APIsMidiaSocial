@@ -16,3 +16,5 @@ $env:LINKEDIN_ORG_ID="org-abc"
 $env:TIKTOK_TOKEN="token000"
 java -cp out br.edu.trabalho.social.app.MainDemo
 ```
+## Diagrama de Classes
+![Uploading diagrama de classes.png…]()
