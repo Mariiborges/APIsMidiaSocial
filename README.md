@@ -17,4 +17,5 @@ $env:TIKTOK_TOKEN="token000"
 java -cp out br.edu.trabalho.social.app.MainDemo
 ```
 ## Diagrama de Classes
-![Uploading diagrama de classes.png…]()
+<img width="4562" height="4364" alt="diagrama de classes" src="https://github.com/user-attachments/assets/ebfcc0ef-735d-4bc5-a9c4-74f15190ef7c" />
+
